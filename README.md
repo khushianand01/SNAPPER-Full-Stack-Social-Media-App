@@ -1,1 +1,1 @@
-# Full-Stack-Social-Media-App
+# SNAPPER: Full Stack Social Media App
